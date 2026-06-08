@@ -45,12 +45,12 @@ type: faction-overview
 
 | Фракция  | Основной  | Акцент    |
 |----------|-----------|-----------|
-| Шакалы   | `#E8B33A` | `#C0392B` |
-| Пепел    | `#C6FF00` | `#FF6600` |
-| Химеры   | `#B026FF` | `#39FF14` |
-| Бастион  | `#8E8E8E` | `#F39C12` |
-| Сеть     | `#00E5FF` | `#7C4DFF` |
-| Оазис    | `#2ECC71` | `#00CED1` |
-| Мираж    | `#FF00E5` | `#FFB300` |
+| Шакалы   | ![#E8B33A](../../assets/art/swatches/E8B33A.svg) `#E8B33A` | ![#C0392B](../../assets/art/swatches/C0392B.svg) `#C0392B` |
+| Пепел    | ![#C6FF00](../../assets/art/swatches/C6FF00.svg) `#C6FF00` | ![#FF6600](../../assets/art/swatches/FF6600.svg) `#FF6600` |
+| Химеры   | ![#B026FF](../../assets/art/swatches/B026FF.svg) `#B026FF` | ![#39FF14](../../assets/art/swatches/39FF14.svg) `#39FF14` |
+| Бастион  | ![#8E8E8E](../../assets/art/swatches/8E8E8E.svg) `#8E8E8E` | ![#F39C12](../../assets/art/swatches/F39C12.svg) `#F39C12` |
+| Сеть     | ![#00E5FF](../../assets/art/swatches/00E5FF.svg) `#00E5FF` | ![#7C4DFF](../../assets/art/swatches/7C4DFF.svg) `#7C4DFF` |
+| Оазис    | ![#2ECC71](../../assets/art/swatches/2ECC71.svg) `#2ECC71` | ![#00CED1](../../assets/art/swatches/00CED1.svg) `#00CED1` |
+| Мираж    | ![#FF00E5](../../assets/art/swatches/FF00E5.svg) `#FF00E5` | ![#FFB300](../../assets/art/swatches/FFB300.svg) `#FFB300` |
 
 Полное применение цветов в LED-индикации — [Конвенции LED](../hardware/led-conventions.md). Арт-модификаторы фракций для Midjourney — [Арт-система](../system/art-system.md).
