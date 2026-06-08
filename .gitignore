@@ -1,0 +1,13 @@
+# Состояние редактора Obsidian (личная раскладка, кэш) — не для публичного репозитория
+.obsidian/
+
+# OS / редактор
+Thumbs.db
+.DS_Store
+desktop.ini
+*.swp
+
+# Будущие сборки / зависимости
+node_modules/
+dist/
+build/
