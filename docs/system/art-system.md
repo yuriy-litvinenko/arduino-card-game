@@ -134,6 +134,26 @@ emblem of a doubled echoing diamond sigil that shimmers and splits like a heat m
 
 ---
 
+## Логотип игры
+
+Главный знак всего проекта (не фракционная эмблема). Концепт: палящее солнце Зноя над дюнами + семь лучей-осколков (фракции) + холодный зелёно-бирюзовый отблеск Колыбели в центре. Палитра — общая «мировая» (выжженный оранжевый / песок / чёрный) с одним прохладным акцентом, а не цвета отдельной фракции. Готовый PNG — `assets/art/logo.png` (встроен в корневой [README.md](../../README.md)).
+
+> Midjourney плохо рисует текст, поэтому промпты дают эмблему **без надписи** (`--no text`); название «ЗНОЙ / ZNOY» добавляется шрифтом в векторном редакторе поверх эмблемы.
+
+### Основной (солнце, дюны, семь лучей, Колыбель)
+```
+emblem for a post-apocalyptic desert survival card game: a blazing white-hot sun with a cracked eclipsed core scorching an endless dune horizon, seven thin sharp light-rays radiating outward like shards, a faint teal-green glow of a buried vault rising from the center of the dunes, bold game logo emblem, iconic centered symbol, strong silhouette readable even at small size, limited scorched-desert palette (burnt orange, sand gold, deep black) with a single cool teal-green accent, weathered stamped-metal texture, dramatic rim light, flat graphic poster design, high contrast, isolated on plain dark background --no text, letters, words, numbers, watermark, signature --ar 1:1 --v 6 --style raw
+```
+
+### Минималистичная иконка (малые размеры / favicon)
+```
+minimalist game logo icon: a harsh circular sun fractured into seven sharp rays above a single curved dune, a tiny teal-green glowing core at the center, ultra-clean iconic mark, bold simple shapes, limited scorched-desert palette (burnt orange, sand gold, deep black) with one cool teal-green accent, flat graphic design, high contrast, isolated on plain dark background --no text, letters, words, numbers, watermark, signature --ar 1:1 --v 6 --style raw --s 50
+```
+
+> **Баннер** для шапки README: возьми основной промпт и поменяй `--ar 1:1` на `--ar 3:1`. **Прозрачный фон:** «on plain white background» + вырезать фон. **Чище** — `--s 50`, **детальнее** — `--s 250`.
+
+---
+
 ## Правила составления промпта
 
 1. **Описание субъекта** — конкретный персонаж, устройство или сцена. Включать: позу, доминирующий визуальный элемент, действие или состояние.
