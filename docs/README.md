@@ -20,6 +20,9 @@
 - [Оазис](factions/oasis.md) — Цветение X *(DLC 2)*
 - [Мираж](factions/mirage.md) — Эхо *(DLC 3)*
 
+## Карты
+- [Каталог карт по фракциям](../cards/README.md) — все карты (герои + существа + заклинания), статы и способности
+
 ## Аппаратура
 - [Физическое игровое поле](hardware/playfield.md)
 - [Конвенции LED-индикации](hardware/led-conventions.md)

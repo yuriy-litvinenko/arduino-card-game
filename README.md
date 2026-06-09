@@ -34,8 +34,11 @@ docs/
   README.md        — навигация по базе знаний (Obsidian MOC)
 assets/art/        — PNG-арт фракций и карт
 cards/             — карты игры (Markdown), по типам
+  README.md        — каталог всех карт по фракциям (MOC)
 ```
 
 С чего начать чтение: [CLAUDE.md](CLAUDE.md) → [docs/setting/znoy.md](docs/setting/znoy.md) → [docs/factions/_overview.md](docs/factions/_overview.md).
+
+Каталог карт: [cards/README.md](cards/README.md) — все карты по фракциям, со статами и способностями.
 
 > Грунтованный sci-fi, не фэнтези: всё «странное» — последствия Зноя и аномального поля у Колыбели, а не магия.

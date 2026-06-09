@@ -37,4 +37,4 @@ art_image: "assets/art/factions/chimera.png"
 
 ---
 
-См. также: [Фракции — обзор](_overview.md) · [Конвенции LED](../hardware/led-conventions.md) · [Арт-система](../system/art-system.md)
+См. также: [🃏 Карты фракции](../../cards/factions/chimera.md) · [Фракции — обзор](_overview.md) · [Конвенции LED](../hardware/led-conventions.md) · [Арт-система](../system/art-system.md)

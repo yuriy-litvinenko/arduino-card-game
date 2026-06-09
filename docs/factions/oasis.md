@@ -38,4 +38,4 @@ art_image: "assets/art/factions/oasis.png"
 
 ---
 
-См. также: [Фракции — обзор](_overview.md) · [Конвенции LED](../hardware/led-conventions.md) · [Арт-система](../system/art-system.md)
+См. также: [🃏 Карты фракции](../../cards/factions/oasis.md) · [Фракции — обзор](_overview.md) · [Конвенции LED](../hardware/led-conventions.md) · [Арт-система](../system/art-system.md)

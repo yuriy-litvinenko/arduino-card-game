@@ -35,4 +35,4 @@ art_image: "assets/art/factions/jackals.png"
 
 ---
 
-См. также: [Фракции — обзор](_overview.md) · [Конвенции LED](../hardware/led-conventions.md) · [Арт-система](../system/art-system.md)
+См. также: [🃏 Карты фракции](../../cards/factions/jackals.md) · [Фракции — обзор](_overview.md) · [Конвенции LED](../hardware/led-conventions.md) · [Арт-система](../system/art-system.md)
