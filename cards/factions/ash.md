@@ -4,14 +4,14 @@
 
 **Перегрев** — копит атаку каждый ход и сбрасывает её в урон. Архетип: контроль / взрыв. Цвет `#C6FF00` + `#FF6600`. *(базовая игра)*
 
-| Карта | Тип | Мана | А/З | Ред. | Способность |
-|---|---|:--:|:--:|:--:|---|
-| [Кантор, Жрец Первого Огня](../heroes/ash-fire-cantor.md) | герой | — | 30 | ★ | **Разогрев:** союзнику `+2` атк немедленно |
-| [Гейгеровый служка](../minions/ash-geiger-acolyte.md) | существо | 2 | 1/3 | common | **Перегрев** |
-| [Выброс](../spells/ash-fallout-burst.md) | заклинание | 3 | — | rare | `2` урона всем вражеским существам *(чистка)* |
-| [Реакторный жрец](../minions/ash-reactor-priest.md) | существо | 4 | 2/5 | rare | **Провокация. Перегрев** |
-| [Критическая масса](../spells/ash-critical-mass.md) | заклинание | 4 | — | epic | `5` урона любой цели. **Перегрузка 1** |
-| [Первый Огонь](../minions/ash-first-fire.md) | существо | 7 | 3/7 | ★ | **Провокация. Перегрев.** Сброс бьёт героя на половину |
+| Арт | Карта | Тип | Мана | А/З | Ред. | Способность |
+|:--:|---|---|:--:|:--:|:--:|---|
+| <img src="../../assets/art/cards/heroes/ash-fire-cantor.png" width="56" alt="Кантор, Жрец Первого Огня"> | [Кантор, Жрец Первого Огня](../heroes/ash-fire-cantor.md) | герой | — | 30 | ★ | **Разогрев:** союзнику `+2` атк немедленно |
+| <img src="../../assets/art/cards/minions/ash-geiger-acolyte.png" width="56" alt="Гейгеровый служка"> | [Гейгеровый служка](../minions/ash-geiger-acolyte.md) | существо | 2 | 1/3 | common | **Перегрев** |
+| <img src="../../assets/art/cards/spells/ash-fallout-burst.png" width="56" alt="Выброс"> | [Выброс](../spells/ash-fallout-burst.md) | заклинание | 3 | — | rare | `2` урона всем вражеским существам *(чистка)* |
+| <img src="../../assets/art/cards/minions/ash-reactor-priest.png" width="56" alt="Реакторный жрец"> | [Реакторный жрец](../minions/ash-reactor-priest.md) | существо | 4 | 2/5 | rare | **Провокация. Перегрев** |
+| <img src="../../assets/art/cards/spells/ash-critical-mass.png" width="56" alt="Критическая масса"> | [Критическая масса](../spells/ash-critical-mass.md) | заклинание | 4 | — | epic | `5` урона любой цели. **Перегрузка 1** |
+| <img src="../../assets/art/cards/minions/ash-first-fire.png" width="56" alt="Первый Огонь"> | [Первый Огонь](../minions/ash-first-fire.md) | существо | 7 | 3/7 | ★ | **Провокация. Перегрев.** Сброс бьёт героя на половину |
 
 ---
 

@@ -4,14 +4,14 @@
 
 **Эхо** — способность существа срабатывает дважды. Архетип: комбо / повтор. Цвет `#FF00E5` + `#FFB300`. *(DLC 3)*
 
-| Карта | Тип | Мана | А/З | Ред. | Способность |
-|---|---|:--:|:--:|:--:|---|
-| [Фантом, Настройщик Аномалии](../heroes/mirage-tuner.md) | герой | — | 30 | ★ | **Двоение:** следующее заклинание срабатывает дважды |
-| [Расфокус](../spells/mirage-defocus.md) | заклинание | 1 | — | common | `2` урона любой цели |
-| [Мерцающий бес](../minions/mirage-flicker-imp.md) | существо | 2 | 2/2 | common | **Эхо.** Клич: `1` урон вражескому существу |
-| [Зеркальный служка](../minions/mirage-mirror-acolyte.md) | существо | 3 | 2/3 | rare | **Эхо.** Конец хода: `+2` здоровья герою |
-| [Эхо-узел](../minions/mirage-echo-node.md) | существо | 4 | 2/4 | rare | **Эхо.** При атаке: `1` урон случайному врагу |
-| [Морок, Дважды-Сущий](../minions/mirage-fata-morgana.md) | существо | 7 | 4/5 | ★ | **Эхо.** Клич: `3` урона любой цели |
+| Арт | Карта | Тип | Мана | А/З | Ред. | Способность |
+|:--:|---|---|:--:|:--:|:--:|---|
+| <img src="../../assets/art/cards/heroes/mirage-tuner.png" width="56" alt="Фантом, Настройщик Аномалии"> | [Фантом, Настройщик Аномалии](../heroes/mirage-tuner.md) | герой | — | 30 | ★ | **Двоение:** следующее заклинание срабатывает дважды |
+| <img src="../../assets/art/cards/spells/mirage-defocus.png" width="56" alt="Расфокус"> | [Расфокус](../spells/mirage-defocus.md) | заклинание | 1 | — | common | `2` урона любой цели |
+| <img src="../../assets/art/cards/minions/mirage-flicker-imp.png" width="56" alt="Мерцающий бес"> | [Мерцающий бес](../minions/mirage-flicker-imp.md) | существо | 2 | 2/2 | common | **Эхо.** Клич: `1` урон вражескому существу |
+| <img src="../../assets/art/cards/minions/mirage-mirror-acolyte.png" width="56" alt="Зеркальный служка"> | [Зеркальный служка](../minions/mirage-mirror-acolyte.md) | существо | 3 | 2/3 | rare | **Эхо.** Конец хода: `+2` здоровья герою |
+| <img src="../../assets/art/cards/minions/mirage-echo-node.png" width="56" alt="Эхо-узел"> | [Эхо-узел](../minions/mirage-echo-node.md) | существо | 4 | 2/4 | rare | **Эхо.** При атаке: `1` урон случайному врагу |
+| <img src="../../assets/art/cards/minions/mirage-fata-morgana.png" width="56" alt="Морок, Дважды-Сущий"> | [Морок, Дважды-Сущий](../minions/mirage-fata-morgana.md) | существо | 7 | 4/5 | ★ | **Эхо.** Клич: `3` урона любой цели |
 
 ---
 
